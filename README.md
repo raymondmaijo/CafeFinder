@@ -13,7 +13,11 @@ cafe-finder/
 ├── styles.css
 └── script.js
 Then run:
-bashpython3 cafe_server.py
-Open your browser at: http://localhost:8080
+bash
+python3 cafe_server.py
+
+Open your browser at:
+http://localhost:8080
+
 How It Works
 LayerTechBackendPython 3 http.server — no frameworks, no dependenciesGeocodingNominatim (OSM) → auto-falls back to Photon (Komoot)Cafe dataOpenStreetMap Overpass APIMapLeaflet.js + OpenStreetMap tiles
