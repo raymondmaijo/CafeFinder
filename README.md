@@ -8,7 +8,7 @@ A browser
 Quick Start
 Put all four files in the same folder:
 cafe-finder/
-├── cafe_server.py   ← Python backend (replaces Java)
+├── cafe_server.py   ← Python backend 
 ├── index.html
 ├── styles.css
 └── script.js
